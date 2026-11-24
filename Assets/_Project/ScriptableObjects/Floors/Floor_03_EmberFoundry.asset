@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28ff767fe62eabf47b0bb8dea32bad2d, type: 3}
+  m_Name: Floor_03_EmberFoundry
+  m_EditorClassIdentifier: Assembly-CSharp::SoloKnight.FloorDataSO
+  floorNumber: 3
+  floorName: Ember Foundry
+  bossName: Forge Tyrant
+  floorColor: {r: 0.25, g: 0.14, b: 0.1, a: 1}
+  wallColor: {r: 0.42, g: 0.22, b: 0.14, a: 1}
+  ambientColor: {r: 0.35, g: 0.18, b: 0.1, a: 1}
+  fogColor: {r: 0.1, g: 0.03, b: 0.01, a: 1}
+  torchColor: {r: 1, g: 0.45, b: 0.15, a: 1}
+  enemyHealthMultiplier: 2.5
+  enemyDamageMultiplier: 1.8
+  bossHealthMultiplier: 2.4
+  bossDamageMultiplier: 1.7
+  extraEnemiesPerSpawn: 1
+  bruteChance: 0.3
+  casterChance: 0.25
+  expMultiplier: 2.2
+  goldMultiplier: 2.2
+  rarityBonus: 0.6
